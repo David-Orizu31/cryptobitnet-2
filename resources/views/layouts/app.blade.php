@@ -1043,13 +1043,13 @@
                                       <h3>Follow us</h3>
                                       <p>Stay up to date with CryptoBitNet activities.</p>
                                       <ul class="footer-social">
-                                          <!-- <li class="twitter-fs"><a href="#" target="_blank"
+                                         <li class="twitter-fs"><a href="#" target="_blank"
                                                                     title="Twitter" rel="noreferrer">
                                                   <svg class="gm-icon gm-icon-twitter"><title>Twitter</title>
                                                       <use xlink:href="img/sprite.svg#gm-icon-twitter"></use>
                                                   </svg>
                                               </a>
-                                          </li> -->
+                                          </li>
                                           <li class="facebook-fs"><a href="https://Facebook.com/cryptobitnet1" target="_blank"
                                                                      title="Facebook" rel="noreferrer">
                                                   <svg class="gm-icon gm-icon-facebook">

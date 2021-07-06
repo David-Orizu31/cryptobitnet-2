@@ -198,6 +198,25 @@
                         </div>
                       </div>
 
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                          <h4 class="panel-title panel-inactive"><a data-toggle="collapse" data-parent="#accordion1"
+                              href="#why-is-mining-only-for-20days"><span><svg class="gm-icon gm-icon-arrow-down">
+                                  <use xlink:href="img/sprite.svg#gm-icon-arrow-down"></use>
+                                </svg><svg class="gm-icon gm-icon-arrow-up">
+                                  <use xlink:href="img/sprite.svg#gm-icon-arrow-up"></use>
+                                </svg></span> Why is mining only for 20 days?             </a></h4>
+                        </div>
+                        <div id="why-is-mining-only-for-20days" class="panel-collapse collapse">
+                          <div class="panel-body">
+                            <p>
+                            This is how long the mining process last
+                  </p>
+
+                          </div>
+                        </div>
+                      </div>
+
 
 
 
@@ -251,7 +270,7 @@
                         <div id="how-to-mine-diffent-coins-simultaneously" class="panel-collapse collapse">
                           <div class="panel-body">
                             <p>
-                              That strictly depends on the selected package and length of the package</p>
+                              Daily for a period of 20 days.</p>
 
                           </div>
                         </div>
@@ -271,7 +290,7 @@
                           <div class="panel-body">
 
                             <p>
-                              Mining output are generated Daily, but You can withdraw at the end of your Contract, All depends on the Contract package length.</p>
+                              Mining output are generated Daily, but You can withdraw at the end of your Contract.</p>
 
                           </div>
                         </div>
@@ -299,7 +318,7 @@
 
 
 
-                      <div class="panel panel-default">
+                      <!-- <div class="panel panel-default">
                         <div class="panel-heading">
                           <h4 class="panel-title panel-inactive"><a data-toggle="collapse" data-parent="#accordion2"
                               href="#how-to-add-a-wallet-address"><span><svg class="gm-icon gm-icon-arrow-down">
@@ -315,16 +334,13 @@
                               Important: Remember that you have to add a wallet for each coin selected in the “Mining Allocation” section                  </p>
                             <p class="faq-img">
                               <picture>
-                                <!--[if IE 9]><video style="display: none"><![endif]-->
                                 <source srcset="/img/Version3/csc/gm-faq-1_1.webp 1x, /img/Version3/csc/gm-faq-1_1.webp 2x" type="image/webp">
                                 <source srcset="/img/Version3/csc/gm-faq-1_1.png 1x, /img/Version3/csc/gm-faq-1_1.png 2x">
-                                <!--[if IE 9]></video><![endif]-->
-                                <!-- <img src="/img/Version3/csc/q-1_1.png" title="Faq - Wallet" alt="Faq - Wallet" /> -->
                               </picture>
                             </p>
                           </div>
                         </div>
-                      </div>
+                      </div> -->
 
                       <div class="panel panel-default">
                         <div class="panel-heading">
@@ -371,13 +387,13 @@
                         </div>
                         <div id="what-in-it-cryptobitnet" class="panel-collapse collapse">
                           <div class="panel-body">
-                            <p>Cryptobitnet commission is as follows (After Mining has been completed )</p>
-                            <ul>
+                            <p>We are entitled to 12% of the total profits realized after mining is completed </p>
+                            <!-- <ul>
                               <li>BEGINNERS = 2%</li>
                               <li>PREMIUM = 5%</li>
                               <li>INVESTORS = 7%</li>
                               <li>VIP = 10%</li>
-                            </ul>
+                            </ul> -->
                           </div>
                         </div>
                       </div>
@@ -625,13 +641,13 @@
                                 </svg><svg class="gm-icon gm-icon-arrow-up">
                                   <use xlink:href="img/sprite.svg#gm-icon-arrow-up"></use>
                                 </svg></span>
-                                How can I start my mining contract ?                  </a></h4>
+                                How long does mining last?                  </a></h4>
                         </div>
                         <div id="csp-fp4-15" class="panel-collapse collapse">
                           <div class="panel-body">
 
                             <p>
-                              Once you’ve signed up and selected your desired package, You’ll have to fund  your Account.</p>
+                              A period of 20 days.</p>
 
                           </div>
                         </div>
